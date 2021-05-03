@@ -17,11 +17,9 @@ This repository deals with predicting the real time handwritten digits only. To 
 * OpenCV
 
 # Data set
-The MNIST data set (Modified National Institute of Standards and Technology database) has 70,000 handwritten images, which is divided into training data set of 60,000 images, and a testing data set of 10,000 images. Each digit in the data set is normalized and centered in a gray-level image with size 28 * 28, or with 784 pixels. All the pixels are stored in csv files, training files has 60,000 rows * 785 columns and testing files has 10,000 rows * 785 columns.
-
+The MNIST data set (Modified National Institute of Standards and Technology database) has 70,000 handwritten images, which is divided into training data set of 60,000 images, and a testing data set of 10,000 images. Each digit in the data set is normalized and centered in a gray-level image with size 28 * 28, or with 784 pixels. All the pixels are stored in csv files, training files has 60,000 rows * 785 columns and testing files has 10,000 rows * 785 columns. Few sample images from MNIST data set are shown in the below figure.
 
 ![Dataset_2](https://user-images.githubusercontent.com/83408384/116880542-c43a3c00-ac3f-11eb-85e0-a0c37f687222.png)
-Sample images from MNIST data set
 
 # Convolutional Neural Network Model 
 
