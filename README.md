@@ -16,5 +16,13 @@ This repository deals with predicting the real time handwritten digits only. To 
 * Seaborn
 * OpenCV
 
+# Data set
+The MNIST data set (Modified National Institute of Standards and Technology database) has 70,000 handwritten images, which is divided into training data set of 60,000 images, and a testing data set of 10,000 images. Each digit in the data set is normalized and centered in a gray-level image with size 28 * 28, or with 784 pixels. All the pixels are stored in csv files, training files has 60,000 rows * 785 columns and testing files has 10,000 rows * 785 columns.
+![Dataset](https://user-images.githubusercontent.com/83408384/116879880-dcf62200-ac3e-11eb-8a89-2c1d77f665a2.png)
+Sample images from MNIST data set
+
+# Convolutional Neural Network Model 
+![Diagram](https://user-images.githubusercontent.com/83408384/116879811-c51e9e00-ac3e-11eb-8397-f2f37c774aad.png)
+
 # Output
 ![Capture](https://user-images.githubusercontent.com/83408384/116871250-9d750900-ac31-11eb-8293-dbf662b2cc66.PNG)
