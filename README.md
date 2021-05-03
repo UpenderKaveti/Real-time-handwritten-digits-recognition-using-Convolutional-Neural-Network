@@ -23,6 +23,17 @@ Sample images from MNIST data set
 
 # Convolutional Neural Network Model 
 ![Diagram](https://user-images.githubusercontent.com/83408384/116879811-c51e9e00-ac3e-11eb-8397-f2f37c774aad.png)
+	Layers
+  
+CL1 -	Convolutional Layer 1
+ML1	- Max Pooling Layer 1
+CL2	- Convolutional Layer 2
+ML2	- Max Pooling Layer 2
+CL3	- Convolutional Layer 3
+FL1	- Dropout & Flatten Layer 1
+DL1	- Dense Layer 1
+DL2	- Dense Layer 2
+
 
 # Output
 ![Capture](https://user-images.githubusercontent.com/83408384/116871250-9d750900-ac31-11eb-8293-dbf662b2cc66.PNG)
