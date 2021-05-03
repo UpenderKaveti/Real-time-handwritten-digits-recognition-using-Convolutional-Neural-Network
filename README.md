@@ -21,7 +21,7 @@ The MNIST data set (Modified National Institute of Standards and Technology data
 
 
 ![Dataset_2](https://user-images.githubusercontent.com/83408384/116880542-c43a3c00-ac3f-11eb-85e0-a0c37f687222.png)
-	Sample images from MNIST data set
+Sample images from MNIST data set
 
 # Convolutional Neural Network Model 
 
